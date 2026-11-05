@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:33.914506+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z7101-space-ambient-sequences-opening/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "21bee6a1b74c791519013856a44e664146dec1c175ea94773866795ac243de34",
+      "errors": []
+    },
+    {
+      "path": "midi/z7101-space-ambient-sequences-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "bcadcd4a91b8fa75b939b10ab64eac1c8703cee27b8519ce62deda771e5bebf4",
+      "errors": []
+    },
+    {
+      "path": "midi/z7101-space-ambient-sequences-opening/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z7101-space-ambient-sequences-opening/principal_motif.mid",
+      "bytes": 491,
+      "sha256": "e99a7f222ab438880fdee4798c025c5831bd5ffabd94cc5477fe07822767fc19",
+      "errors": []
+    },
+    {
+      "path": "midi/z7101-space-ambient-sequences-opening/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "e5d5b1603b40bfe4fe4ba6b6e080b18962dd916e2a782bbc1a6d1bcb6101de76",
+      "errors": []
+    },
+    {
+      "path": "midi/z7101-space-ambient-sequences-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "eb29710533d3c10110873817050b322169537b2d2d462ac29ac0c920f1896b05",
+      "errors": []
+    },
+    {
+      "path": "midi/z7101-space-ambient-sequences-opening/z7101-space-ambient-sequences-opening-combined.mid",
+      "bytes": 3088,
+      "sha256": "3911504fc07d2ef6197d1f1a9c138fe89ce352eaf6f7455b7dcc011057f1ff76",
+      "errors": []
+    },
+    {
+      "path": "midi/z7102-space-ambient-sequences-variation/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "00fef81b8ccfcc712cec906a5ac75a92957a2abcb77514d9532c6a77a76b52e1",
+      "errors": []
+    },
+    {
+      "path": "midi/z7102-space-ambient-sequences-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "a97b0ae9d943d9493776d032d506daf731a4a58a95d985b77d32ee196f50bb02",
+      "errors": []
+    },
+    {
+      "path": "midi/z7102-space-ambient-sequences-variation/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z7102-space-ambient-sequences-variation/principal_motif.mid",
+      "bytes": 490,
+      "sha256": "4c392b76a0effc57a34b8d796d1ccc4d218b41386cdbaadca1ce0bcc48775599",
+      "errors": []
+    },
+    {
+      "path": "midi/z7102-space-ambient-sequences-variation/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "6dd59ceac95bf1fff0dfc86486b8a46236de9256ad6583b2e1b96671a6d41605",
+      "errors": []
+    },
+    {
+      "path": "midi/z7102-space-ambient-sequences-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "4ea507c77fa19b248a355273eef81930e27159ad3c8bcbee70adde936e105fbb",
+      "errors": []
+    },
+    {
+      "path": "midi/z7102-space-ambient-sequences-variation/z7102-space-ambient-sequences-variation-combined.mid",
+      "bytes": 3087,
+      "sha256": "622054b83b86dabc6f6ec133bddfcb2c4cd0cd069e61c726a2d000ffec4168a5",
+      "errors": []
+    },
+    {
+      "path": "midi/z7103-space-ambient-sequences-contrast/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "89efd984522976d746d34cb7b6eca63339dcdaab72ad5bc584cb7b953f51b783",
+      "errors": []
+    },
+    {
+      "path": "midi/z7103-space-ambient-sequences-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "15e46b5c470874d59de451ae5c303bf2dbbc006e69ae04cbf03457aa0681ea45",
+      "errors": []
+    },
+    {
+      "path": "midi/z7103-space-ambient-sequences-contrast/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z7103-space-ambient-sequences-contrast/principal_motif.mid",
+      "bytes": 470,
+      "sha256": "3afca8106cf916012d6968f2c50df50c39a803e5c1e6119bc6b800837e8697e6",
+      "errors": []
+    },
+    {
+      "path": "midi/z7103-space-ambient-sequences-contrast/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "1869b237e793dc73b7f1723ab0aaf33b11ae04cf79bc189dbfa04e89d3110811",
+      "errors": []
+    },
+    {
+      "path": "midi/z7103-space-ambient-sequences-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "8f27bf4d2da874984705d47f3526535f9e21af22caed75480c1d0104d50f47ff",
+      "errors": []
+    },
+    {
+      "path": "midi/z7103-space-ambient-sequences-contrast/z7103-space-ambient-sequences-contrast-combined.mid",
+      "bytes": 3067,
+      "sha256": "73aaaf482615d796a0eaba59b5f18d2ba6540040fdc6bbe371c72b6aaf6a03f0",
+      "errors": []
+    },
+    {
+      "path": "midi/z7104-space-ambient-sequences-return/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "3cf4701bf1d082fb8d0bf721faa2434bd39bc140084262b700aa5b7c31b4f7d1",
+      "errors": []
+    },
+    {
+      "path": "midi/z7104-space-ambient-sequences-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "e179b25a8b463ca5177c73b1be5c50e9d8576d8a3ed1fd86f5fe26c4fb72cf68",
+      "errors": []
+    },
+    {
+      "path": "midi/z7104-space-ambient-sequences-return/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z7104-space-ambient-sequences-return/principal_motif.mid",
+      "bytes": 470,
+      "sha256": "b33af4b4be33c64fb04e3e7b9181a721cf5cdfbf4678d09d60e0f2516f07d41f",
+      "errors": []
+    },
+    {
+      "path": "midi/z7104-space-ambient-sequences-return/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "bc439f3a52b3650f89021f14592ca3c8f838eb019cae4c7feba2d5ca695f8a60",
+      "errors": []
+    },
+    {
+      "path": "midi/z7104-space-ambient-sequences-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "fc8ac51ce6cb9c94d7dec749508fbfb3bae1232ef34b077109cf75d21f791fdc",
+      "errors": []
+    },
+    {
+      "path": "midi/z7104-space-ambient-sequences-return/z7104-space-ambient-sequences-return-combined.mid",
+      "bytes": 3067,
+      "sha256": "2d24fb00c5e84c64c9fdff6e95235c1d4dad86061af74444f98378cd66d7af93",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

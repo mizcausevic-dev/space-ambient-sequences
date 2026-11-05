@@ -1,0 +1,26 @@
+{
+  "title": "Space Ambient Sequences",
+  "study": "z7101",
+  "bpm": 72,
+  "source_audio": "preview/space-ambient-sequences-simple-synth-preview.mp3",
+  "source_audio_sha256": "88c1731c06f2d91642362d9851088259262f04825f2fe9d3d01ffc6bba62fa35",
+  "source_midi": "midi/z7101-space-ambient-sequences-opening/z7101-space-ambient-sequences-opening-combined.mid",
+  "source_midi_sha256": "3911504fc07d2ef6197d1f1a9c138fe89ce352eaf6f7455b7dcc011057f1ff76",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "fd0c03452127669802ae20115adf087f7221db5c57bae40fe943250c45cbc8b4",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "35ed902b7c983d3a912e19f36eef936ef35aa60f96a3c4b30b05372d88c516c9",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "d978a574b22c6759a15fa2c5c672f2255036edeabeaec4d842b7b9acfe174e2f",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

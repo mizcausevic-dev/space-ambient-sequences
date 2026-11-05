@@ -1,0 +1,3 @@
+DRAFT: Space Ambient Sequences Studies is a four-study original MIDI release at 72 BPM. Simple-synthesis preview, not a master. #MIDI #Composition
+
+Count: 146 characters using Python len
