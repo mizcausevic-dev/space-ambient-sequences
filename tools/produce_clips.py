@@ -80,6 +80,14 @@ def main():
                             local = offset + shift
                             if local < END:
                                 notes.append((local, min(duration, END-local), pitch + (12 if rank < inversion else 0), min(127, velocity + variation * 2)))
+                elif kind == "principal_motif" and args.pack == "space-ambient-sequences":
+                    # Slow, separated responses with a different four-bar contour per clip.
+                    cells = ((120, 1200), (480,), (240, 1440), (720,))
+                    for bar in range(4):
+                        for j, offset in enumerate(cells[(bar + variation) % 4]):
+                            pitch = study["motif"][(bar*2 + j + variation + study_index) % len(study["motif"])]
+                            duration = (420, 600, 360, 480)[(bar+j+variation)%4]
+                            notes.append((bar*release.BAR_TICKS + offset, duration, pitch, 60 + 5*((bar+j+variation)%4)))
                 else:
                     start = (8 + variation*4) * release.BAR_TICKS
                     for event in score[kind]:
