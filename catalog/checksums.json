@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/space-ambient-sequences-midi.zip",
-      "bytes": 24740,
-      "sha256": "d9c06ab4ba1c19a80d467590ea7d06ffb75041bfd2b592c289090099eda8737c"
+      "bytes": 25727,
+      "sha256": "8d12b779f48d1bf43900cd329694286bde72c872baeeace8a83fd68d5c98e504"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10244,
-      "sha256": "8162ef5cffcf1c5fb3c3207d6adac0722a6a5b8e4c695e595266ba645f620a07"
+      "bytes": 10434,
+      "sha256": "869044aafdbca1817ac9cc9ac7b14d8b8e38ab5292e1d014f3cbd297c1b5b620"
     },
     {
       "path": "midi/z7101-space-ambient-sequences-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "2d24fb00c5e84c64c9fdff6e95235c1d4dad86061af74444f98378cd66d7af93"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/preview-manifest.json",
       "bytes": 1180,
       "sha256": "c318ac28703bed5dc33b3cadff136736106829a99c00850c56ef293599186de0"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4142,
-      "sha256": "50f53f2d09f8234de8a4d6117bd97e7469321ffe55fbf39be84afff15048f670"
+      "bytes": 4257,
+      "sha256": "96650226d336855f6729c3e0df6d023b59748a070fac16ec8e2e0b6c8b694f46"
     },
     {
       "path": "REVISION.md",
